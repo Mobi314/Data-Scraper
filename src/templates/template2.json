@@ -1,0 +1,12 @@
+{
+    "questionnaire": [
+        {
+            "question": "What is your email address?",
+            "answer_type": "text"
+        },
+        {
+            "question": "What is your date of birth?",
+            "answer_type": "date"
+        }
+    ]
+}
